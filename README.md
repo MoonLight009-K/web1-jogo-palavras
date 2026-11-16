@@ -20,3 +20,13 @@ Digite uma letra e clique em Tentar. O objetivo é descobrir a palavra antes de 
 - HTML5
 - CSS3
 - JavaScript
+
+## Funcionalidades
+- Palavra aleatória
+- Controle de tentativas
+- Letras utilizadas
+- Reinício da partida
+
+
+## Link do jogo
+Cole aqui o endereço do GitHub Pages depois de publicar.
